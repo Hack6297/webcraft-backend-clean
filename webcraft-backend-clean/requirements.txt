@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+channels
+channels_redis
+corsheaders
