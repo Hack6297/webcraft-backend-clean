@@ -1,6 +1,0 @@
-Django
-djangorestframework
-djangorestframework-simplejwt
-channels
-channels_redis
-django-cors-headers
