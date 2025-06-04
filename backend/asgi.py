@@ -1,1 +1,1 @@
-# ASGI config for Channels
+application = get_asgi_application()
