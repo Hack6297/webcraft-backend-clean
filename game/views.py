@@ -1,1 +1,0 @@
-# API views using DRF
