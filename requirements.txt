@@ -3,4 +3,4 @@ djangorestframework
 djangorestframework-simplejwt
 channels
 channels_redis
-corsheaders
+django-cors-headers
